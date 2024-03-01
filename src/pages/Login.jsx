@@ -1,6 +1,6 @@
-import { Link, Form, useNavigate } from "react-router-dom";
+import { Link, Form } from "react-router-dom";
 import Wrapper from "../assets/wrappers/RegisterAndLoginPage";
-import { FormRow, SubmitBtn } from "../components";
+import { FormRow, Logo, SubmitBtn } from "../components";
 
 /*export const action =
   (queryClient) =>
